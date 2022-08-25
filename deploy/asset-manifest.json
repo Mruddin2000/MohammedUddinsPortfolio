@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7f705186.css",
+    "main.js": "/static/js/main.12e88674.js",
+    "static/media/secondpic.jpg": "/static/media/secondpic.d0133f4280fdbbdb59fe.jpg",
+    "static/media/firstpic.jpg": "/static/media/firstpic.baea4ce9b1d839d751d6.jpg",
+    "static/media/Mohammed Uddin - CV (grad).pdf": "/static/media/Mohammed Uddin - CV (grad).c9d2111cbbe0ae24fa7e.pdf",
+    "static/media/website.png": "/static/media/website.52984430ecbbea1ec16d.png",
+    "static/media/android.jpg": "/static/media/android.a59dbcc6efc1b9bf66d1.jpg",
+    "static/media/logo.png": "/static/media/logo.9aa86f28fcc3951e1572.png",
+    "static/media/app.jpg": "/static/media/app.b67f516011a9f3f9662c.jpg",
+    "static/media/game.png": "/static/media/game.02bf476e650978cfa5f6.png",
+    "static/media/netbeans.png": "/static/media/netbeans.9e01c90120ae96c05001.png",
+    "index.html": "/index.html",
+    "main.7f705186.css.map": "/static/css/main.7f705186.css.map",
+    "main.12e88674.js.map": "/static/js/main.12e88674.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f705186.css",
+    "static/js/main.12e88674.js"
+  ]
+}
